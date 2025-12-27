@@ -1,0 +1,37 @@
+Kiran Kidecha  
+Software Engineer | Cloud & Distributed Systems  
+Limerick, Ireland  
+
+SUMMARY
+Software Engineer specializing in scalable cloud-native and distributed applications. Experience with AWS serverless architecture, microservices, DevOps automation, and full-stack development.
+
+SKILLS
+AWS, Lambda, API Gateway, DynamoDB  
+Microservices, Distributed Systems, Serverless  
+Python, Node.js, JavaScript, React  
+Docker, Kubernetes, CI/CD, Git  
+PostgreSQL, DynamoDB, gRPC  
+
+EXPERIENCE
+
+Software Developer – Soulible
+• Designed and deployed AWS-powered systems handling 50K+ daily requests  
+• Developed serverless microservices using AWS Lambda and API Gateway  
+• Implemented CI/CD pipelines to automate deployments  
+• Contributed to GenAI-powered developer productivity tools  
+
+Software Developer – Aquanoir
+• Built distributed web applications  
+• Improved system reliability and performance  
+• Optimized backend APIs and database interactions  
+
+PROJECTS
+AI Resume Optimizer – Python, Flask, React, AWS  
+Distributed File Storage System – Python, gRPC  
+Cloud-Native Microservices Platform – AWS Serverless  
+
+EDUCATION
+Master’s in Software Engineering  
+
+INTERESTS
+Cloud Computing, AI, Distributed Systems, DevOps

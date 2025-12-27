@@ -1,0 +1,47 @@
+# ===== PYTHON (Backend) =====
+venv/
+.env
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# FastAPI logs
+*.log
+
+# ===== NODE / REACT (Frontend) =====
+node_modules/
+dist/
+build/
+.cache/
+.vite/
+
+# Env files
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
